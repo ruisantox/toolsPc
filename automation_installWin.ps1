@@ -13,6 +13,7 @@ choco install -y putty
 choco install -y qtcreator
 choco install -y vscode
 choco install -y sourcetree
+choco install -y visualstudio2019community
 
 
 
